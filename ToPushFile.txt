@@ -1,0 +1,3 @@
+A file to push to GitHub.
+Some Editing after: 
+                   git add .
